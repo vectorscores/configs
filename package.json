@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/vectorscores/configs/issues"
   },
-  "homepage": "https://github.com/vectorscores/configs#readme"
+  "homepage": "https://github.com/vectorscores/configs#readme",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.1",
+    "@typescript-eslint/parser": "^3.7.1",
+    "eslint": "^7.5.0",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.7"
+  }
 }
